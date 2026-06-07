@@ -1,20 +1,148 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Nexus Core AI
 
-# Run and deploy your AI Studio app
+An enterprise-grade AI Revenue Intelligence Platform that helps sales, growth, and revenue teams identify opportunities, analyze relationship signals, automate outreach, and track engagement through a unified intelligence dashboard.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/0b6bb888-cc6c-44d9-b042-10fe3c6eb9a8
+## Overview
 
-## Run Locally
+Nexus Core AI transforms fragmented customer data into actionable intelligence.
 
-**Prerequisites:**  Node.js
+The platform combines relationship analytics, buying-signal detection, CRM integrations, outreach automation, and executive dashboards to help organizations accelerate revenue growth.
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Key Features
+
+### Command Center
+- Unified prospect intelligence dashboard
+- Relationship scoring
+- Engagement probability tracking
+- Strategic opportunity recommendations
+
+### Intelligence Engine
+- Buying signal detection
+- Relationship health analysis
+- Revenue forecasting
+- AI-powered insights
+
+### Outreach Playbooks
+- Personalized outreach generation
+- Automated campaign execution
+- Executive communication recommendations
+- CRM synchronization
+
+### Activity Timeline
+- Complete interaction history
+- AI-generated actions
+- Outreach tracking
+- Engagement monitoring
+
+### Integrations Hub
+- Salesforce integration
+- HubSpot integration
+- Slack integration
+- Custom API endpoints
+
+### Analytics Dashboard
+- Revenue influenced metrics
+- Relationship growth tracking
+- Engagement trends
+- Performance monitoring
+
+---
+
+## Tech Stack
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Node.js
+- REST APIs
+
+---
+
+## Screenshots
+
+### Command Center
+AI-powered relationship intelligence and prospect analysis.
+
+### Intelligence Dashboard
+Executive insights and revenue analytics.
+
+### Playbooks
+Automated outreach generation and workflow execution.
+
+### Activity Feed
+Real-time timeline of interactions and system events.
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/sahilgondaliya7804/nexus-core-ai.git
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+---
+
+## Project Structure
+
+```text
+src/
+├── components/
+├── pages/
+├── hooks/
+├── services/
+├── assets/
+└── utils/
+```
+
+---
+
+## Future Enhancements
+
+- AI Agent Automation
+- Predictive Revenue Modeling
+- Advanced CRM Workflows
+- Multi-Tenant Architecture
+- Real-Time Notifications
+- Team Collaboration Features
+
+---
+
+## Author
+
+**Sahil Gondaliya**
+
+GitHub:
+https://github.com/sahilgondaliya7804
+
+---
+
+## License
+
+MIT License
+
+Copyright © 2026 Sahil Gondaliya
